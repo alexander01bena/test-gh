@@ -8,7 +8,7 @@
 
 ## Descripción de mi perfil como desarrollador
 
-Soy Alexander Rodríguez, un desarrollador en formación en el campo de la Ingeniería de Sistemas, que actualmente se encuentra en proceso de aprendizaje y fortalecimiento de sus conocimientos en el desarrollo de software. Estoy adquiriendo experiencia en lenguajes de programación como Python y Java, participando en la construcción de aplicaciones, especialmente en proyectos relacionados con sistemas de gestión.
+Soy Alexander Rodríguez, un desarrollador en formación en el campo de la Ingeniería de Sistemas, que actualmente me encuentro en proceso de aprendizaje y fortalecimiento de mis conocimientos en el desarrollo de software. Estoy adquiriendo experiencia en lenguajes de programación como Python y Java, participando en la construcción de aplicaciones, especialmente en proyectos relacionados con sistemas de gestión.
 
 
 
